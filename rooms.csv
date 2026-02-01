@@ -1,0 +1,16 @@
+room_id,hotel_id,room_type,price_per_night,status
+101,1,Standard,3000,Available
+102,1,Deluxe,5000,Available
+103,1,Suite,8000,Available
+201,2,Standard,2500,Available
+202,2,Deluxe,4500,Available
+203,2,Suite,7000,Available
+301,3,Standard,3500,Available
+302,3,Deluxe,5500,Available
+303,3,Suite,9000,Available
+401,4,Standard,3200,Available
+402,4,Deluxe,5200,Available
+403,4,Suite,8500,Available
+501,5,Standard,2800,Available
+502,5,Deluxe,4800,Available
+503,5,Suite,7500,Available

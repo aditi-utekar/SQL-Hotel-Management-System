@@ -1,0 +1,13 @@
+customer_id,name,email,phone,city
+1,Aditi Sharma,aditi@gmail.com,9876543210,Pune
+2,Rahul Verma,rahul@gmail.com,9876543211,Delhi
+3,Sneha Patil,sneha@gmail.com,9876543212,Mumbai
+4,Arjun Mehta,arjun@gmail.com,9876543213,Bangalore
+5,Priya Nair,priya@gmail.com,9876543214,Chennai
+6,Karan Singh,karan@gmail.com,9876543215,Hyderabad
+7,Neha Joshi,neha@gmail.com,9876543216,Nagpur
+8,Rohit Das,rohit@gmail.com,9876543217,Kolkata
+9,Meera Iyer,meera@gmail.com,9876543218,Coimbatore
+10,Vikram Rao,vikram@gmail.com,9876543219,Surat
+11,Ananya Shah,ananya@gmail.com,9876543220,Ahmedabad
+12,Sahil Khan,sahil@gmail.com,9876543221,Lucknow

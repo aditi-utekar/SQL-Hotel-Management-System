@@ -19,7 +19,10 @@ Advanced SQL Queries: Develop complex queries to analyze and retrieve specific d
 - Subqueries
 - CTE
 - Window Functions
-  
+
+## Database Setup
+<img width="921" height="644" alt="Screenshot" src="https://github.com/user-attachments/assets/684af944-cc2c-4c38-9eaa-1c4d3a13f267" />
+
 ```sql
 create database Hotel_mang;
 -- Hotel Management System Project
